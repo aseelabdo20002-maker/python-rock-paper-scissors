@@ -28,4 +28,11 @@
 ## Run the game:
 #### python rps.py
 
-python rps.py
+
+
+
+
+
+
+
+python rp
