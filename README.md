@@ -4,27 +4,28 @@
 
 ## Features
 
-### -Play against different computer strategies.
+### 1.Play against different computer strategies.
 
-### -Choose between a single round or a three-round game.
+#### 2.Choose between a single round or a three-round game.
 
--Includes five player types: Human, Random, Rock, Reflect, and Cycle.
+#### 3.Includes five player types: Human, Random, Rock, Reflect, and Cycle.
 
--Tracks scores and determines the winner.
+#### 4.Tracks scores and determines the winner.
 
 ## Technologies
 
-=Python
--Object-Oriented Programming (OOP)
+#### Python
+#### Object-Oriented Programming (OOP)
 
 ## How to Run
 
-Make sure Python is installed on your computer.
+##### -Make sure Python is installed on your computer.
 
-Clone this repository or download the project files.
+#### -Clone this repository or download the project files.
 
-Open a terminal in the project folder.
+#### -Open a terminal in the project folder.
 
-Run the game:
+## Run the game:
+#### python rps.py
 
 python rps.py
