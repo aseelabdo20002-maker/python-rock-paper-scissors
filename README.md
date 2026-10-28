@@ -4,9 +4,9 @@ A console-based Rock Paper Scissors game built with Python and Object-Oriented P
 
 ## Features
 
-# -Play against different computer strategies.
+### -Play against different computer strategies.
 
-# -Choose between a single round or a three-round game.
+### -Choose between a single round or a three-round game.
 
 -Includes five player types: Human, Random, Rock, Reflect, and Cycle.
 
