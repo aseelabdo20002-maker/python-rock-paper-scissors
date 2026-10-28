@@ -4,7 +4,7 @@
 
 ## Features
 
-### 1.Play against different computer strategies.
+#### 1.Play against different computer strategies.
 
 #### 2.Choose between a single round or a three-round game.
 
@@ -14,8 +14,8 @@
 
 ## Technologies
 
-#### Python
-#### Object-Oriented Programming (OOP)
+#### •Python
+#### •Object-Oriented Programming (OOP)
 
 ## How to Run
 
