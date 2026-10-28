@@ -1,6 +1,6 @@
 ## Rock Paper Scissors 
 
-A console-based Rock Paper Scissors game built with Python and Object-Oriented Programming (OOP).
+#### A console-based Rock Paper Scissors game built with Python and Object-Oriented Programming (OOP).
 
 ## Features
 
